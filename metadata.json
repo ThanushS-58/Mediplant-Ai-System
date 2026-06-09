@@ -1,0 +1,8 @@
+{
+  "name": "MediPlant AI",
+  "description": "A web application for medicinal plant recognition and traditional knowledge preservation. Users can upload plant images to get AI-powered identification and information about their medicinal uses.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
